@@ -1,2 +1,2 @@
--> my-app open in vscode app
-->student open in ecllipse
+-> my-app folder  open in vscode app
+-> student folder open in ecllipse
