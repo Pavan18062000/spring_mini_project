@@ -1,0 +1,30 @@
+.table{
+    border: 1px solid;
+    padding: 10px;
+  
+}
+.homediv{
+    margin-top: 30px ;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: center;
+}
+
+.headtable{
+    border: 1px solid;
+    padding: 10px ;
+    text-align: center;
+}
+.tds {
+    border: 1px solid;
+    padding: 10px ;
+    text-align: center;
+}
+button{
+    padding: 5px;
+    margin: 2px;
+}
+.button{
+    text-decoration: none;
+    color: black;
+}

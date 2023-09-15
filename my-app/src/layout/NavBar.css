@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    height: 3em;
+     display: flex;
+   justify-content: space-between;
+    background-color: rgb(198, 193, 193);
+    width: 100%;
+}
+.navbar p{
+    display: inline;
+    font-size: large;
+    padding: 10px;
+    color: rgb(15, 15, 134);
+   
+}
+.link{
+border: 1px solid;
+border-radius: 5px ;
+padding: 5px;
+ text-decoration: none;
+ color: black;
+ background-color: rgb(161, 161, 226);
+ font-size: 15px;
+ font-size: medium;
+}

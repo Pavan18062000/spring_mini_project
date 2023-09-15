@@ -1,0 +1,11 @@
+.viewu{
+    display: flex;
+    justify-content: center;
+}
+link{
+    text-decoration: none;
+}
+.ul{
+    list-style: none;
+
+}
